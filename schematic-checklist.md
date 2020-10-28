@@ -1,5 +1,15 @@
 # Schematic review checklist
 
+## Board
+
+**BOARD NAME**
+**Revision X.X**
+Description of the board
+
+Reviewed by XXX XXXX 
+Review start date: $~$ XX XXXXXXX XXXX
+Review end date: $~~$  XX XXXXXXX XXXX
+
 ## General
 
 * [ ] CAD ERC 100% clean. If some errors are invalid due to toolchain quirks, each exception must be inspected and signed
